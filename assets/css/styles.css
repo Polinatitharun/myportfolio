@@ -483,3 +483,31 @@ li{
     width: 450px;
   }
 }
+.certdiv{
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.cert{
+  border:2px solid black;
+  width:500px;
+  padding:20px;
+  margin: 20px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 2px black;
+}
+.cert b{
+display: inline;
+
+  
+}
+.h1{
+ text-align: center;
+}
+#btn{
+  display: flex;
+ justify-content: center;
+}
